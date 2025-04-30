@@ -36,6 +36,11 @@ RUN set -x \
   coreutils \
   git \
   curl \
+  chromium \
+  gcc \
+  python3-dev \
+  musl-dev \  
+  
   wget \
   tzdata \
   perl \
